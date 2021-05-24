@@ -4,12 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "zenn-cli": "^0.1.57"
+  },
+  "devDependencies": {
+    "textlint": "^10.2.0",
+    "textlint-rule-preset-ja-spacing": "^2.1.3",
+    "textlint-rule-preset-ja-technical-writing": "^3.1.3"
   }
 }
