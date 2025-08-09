@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.144"
+    "zenn-cli": "^0.1.162"
   },
   "devDependencies": {
-    "textlint": "^12.0.0",
-    "textlint-rule-preset-ja-spacing": "^2.1.3",
+    "textlint": "^12.6.1",
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
     "textlint-rule-preset-ja-technical-writing": "^6.0.0"
   }
 }
